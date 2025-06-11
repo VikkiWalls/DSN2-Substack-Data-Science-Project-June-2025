@@ -1,0 +1,741 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_code_origin,region_name_origin,YAG,sex,mature,selective_status,FSM,POLAR4,migration1,migration2,grads,grads_uk,unmatched_percent,overseas_percent,matched,prop_overall
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Total,Total,223930,222020,0,0.853395114793031,222020,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Total,Total,225020,221375,0,1.6198668109511,221375,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Total,Total,210060,205800,0,2.02797269377612,205800,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Total,Total,186665,180890,0,3.09429676534559,180890,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,131845,130510,0,1.01180950069401,130510,58.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,92085,91510,0,0.626587508863987,91510,41.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,134205,131700,0,1.86800986535725,131700,59.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,90810,89675,0,1.25314525142741,89675,40.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,123970,121045,0,2.35865417967395,121045,58.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,86095,84755,0,1.55181025170455,84755,41.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,106800,102835,0,3.71161048689139,102835,56.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,79865,78055,0,2.26880024040267,78055,43.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,98605,97705,0,0.912732620049693,97705,44
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,87095,86615,0,0.548837967646117,86615,39
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,89155,87680,0,1.65662819520621,87680,39.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,81240,80405,0,1.03026162737025,80405,36.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,75795,74435,0,1.79301791698551,74435,36.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,73710,72920,0,1.07446649753768,72920,35.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,58140,57430,0,1.22123224053115,57430,31.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,63410,62935,0,0.750682079830939,62935,34.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,21680,21460,0,1.01466654367678,21460,9.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,22135,21805,0,1.49071689930885,21805,9.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,20085,19835,0,1.22989593188269,19835,9.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,15860,15720,0,0.857611300290074,15720,8.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,11555,11340,0,1.85185185185185,11340,5.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,4995,4895,0,1.98277588624074,4895,2.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,22915,22215,0,3.05503426002706,22215,10
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,9570,9270,0,3.14524555903866,9270,4.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,28090,26775,0,4.6917271821159,26775,13
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,12380,11840,0,4.39347439832014,11840,5.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,32805,29685,0,9.50493842214364,29685,16.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,16455,15120,0,8.11812602539953,15120,8.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Total,Total,2575,2575,0,0.0776066120833495,2575,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Total,Total,87335,86300,0,1.18623690387588,86300,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Total,Total,134015,133145,0,0.651409895759493,133145,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Total,Total,3010,3005,0,0.132956622901778,3005,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Total,Total,85100,83250,0,2.17043878822064,83250,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Total,Total,136910,135120,0,1.31033072338436,135120,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Total,Total,2665,2650,0,0.637420322459692,2650,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Total,Total,77010,74920,0,2.71653032073757,74920,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Total,Total,130385,128235,0,1.6497296468152,128235,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Total,Total,1640,1625,0,0.914634146341463,1625,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Total,Total,74845,71690,0,4.21665820484729,71690,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Total,Total,110180,107575,0,2.3643129424578,107575,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Total,505,505,0,0.198019801980198,505,19.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Total,2070,2070,0,0.0482602191013947,2070,80.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Total,64365,63530,0,1.2973090547511,63530,73.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Total,22970,22770,0,0.875016324931435,22770,26.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Left home region to study,Total,66975,66475,0,0.743572132469317,66475,49.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Total,67045,66670,0,0.559342511522456,66670,50.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Total,785,785,0,0.254452926208651,785,26.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Total,2220,2220,0,0.0899887514060742,2220,73.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Total,62880,61425,0,2.31548480463097,61425,73.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Total,22215,21825,0,1.75991357969123,21825,26.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Left home region to study,Total,70540,69490,0,1.4870995180039699,69490,51.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Total,66370,65625,0,1.12246127885253,65625,48.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Total,550,550,0,0.181818181818182,550,20.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Total,2115,2100,0,0.755786490316486,2100,79.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Total,57240,55600,0,2.86852311239999,55600,74.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Total,19770,19320,0,2.27640631323351,19320,25.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Left home region to study,Total,66175,64895,0,1.93571784759055,64895,50.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Total,64210,63340,0,1.35497134313481,63340,49.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Total,410,405,0,1.22549019607843,405,24.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Total,1230,1220,0,0.811688311688312,1220,75.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Total,54415,51950,0,4.53183864743177,51950,72.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Total,20430,19740,0,3.37722088982429,19740,27.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Left home region to study,Total,51975,50485,0,2.87242434153568,50485,46.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Total,58205,57090,0,1.91055443877463,57090,53.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in home region,390,390,0,0,390,15.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently in home/study region,1995,1995,0,0.0501228008621122,1995,77.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in home region,48190,47610,0,1.20354423025046,47610,55.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently in home/study region,21095,20940,0,0.739441626771579,20940,24.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in home region,50025,49705,0,0.639667372966058,49705,37.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently in home/study region,64000,63680,0,0.501554663208387,63680,47.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in home region,540,540,0,0,540,18
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently in home/study region,2065,2065,0,0.0484378784209252,2065,68.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in home region,39540,38710,0,2.09160575634184,38710,46.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently in home/study region,18490,18225,0,1.42246741305641,18225,21.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in home region,49080,48430,0,1.3243953625787,48430,35.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently in home/study region,60690,60115,0,0.944173477458476,60115,44.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in home region,360,360,0,0,360,13.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently in home/study region,1930,1925,0,0.259201658890617,1925,72.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in home region,31700,30970,0,2.30606643742705,30970,41.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently in home/study region,15285,15035,0,1.65500098122588,15035,20.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in home region,43735,43105,0,1.43595372021768,43105,33.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently in home/study region,56495,55960,0,0.945216390831047,55960,43.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in home region,235,230,0,0.429184549356223,230,14.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently in home/study region,1055,1055,0,0.0946073793755913,1055,65.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in home region,26280,25910,0,1.40802191947637,25910,36.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently in home/study region,14305,14145,0,1.1046633573376201,14145,19.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in home region,31625,31290,0,1.07186897271319,31290,29.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently in home/study region,48050,47730,0,0.659743178838269,47730,44.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in study region,85,85,0,0,85,3.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in study region,9270,9145,0,1.35922330097087,9145,10.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in study region,12330,12235,0,0.762430042988077,12235,9.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in study region,160,160,0,0,160,5.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in study region,9445,9275,0,1.81029006987084,9275,11.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in study region,12535,12375,0,1.26865076198835,12375,9.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in study region,120,120,0,0,120,4.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in study region,8515,8405,0,1.24515446963468,8405,11.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in study region,11450,11310,0,1.23133350799057,11310,8.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently in study region,55,55,0,0,55,3.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently in study region,7430,7365,0,0.888410284022076,7365,10.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently in study region,8370,8300,0,0.836120401337793,8300,7.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently elsewhere,35,35,0,2.94117647058824,35,1.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently elsewhere,75,75,0,0,75,2.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently elsewhere,6905,6775,0,1.86875271621034,6775,7.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently elsewhere,1875,1830,0,2.40128068303095,1830,2.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently elsewhere,4620,4535,0,1.81857544923144,4535,3.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently elsewhere,3040,2990,0,1.77514792899408,2990,2.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently elsewhere,90,85,0,2.24719101123596,85,2.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently elsewhere,160,155,0,0.632911392405063,155,5.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently elsewhere,13895,13440,0,3.29591249280368,13440,16.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently elsewhere,3730,3600,0,3.43347639484979,3600,4.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently elsewhere,8930,8690,0,2.68817204301075,8690,6.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently elsewhere,5685,5510,0,3.02603800140746,5510,4.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently elsewhere,70,70,0,1.42857142857143,70,2.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently elsewhere,190,175,0,5.85106382978723,175,6.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently elsewhere,17030,16225,0,4.7269524368761,16225,21.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently elsewhere,4480,4285,0,4.39634010265566,4285,5.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently elsewhere,10990,10480,0,4.65793304221252,10480,8.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently elsewhere,7715,7375,0,4.3562816024893,7375,5.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Left home region to study,Currently elsewhere,120,115,0,3.38983050847458,115,7.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,FEC,Total,Total,Stayed in home region to study,Currently elsewhere,175,165,0,5.14285714285714,165,10.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Left home region to study,Currently elsewhere,20710,18680,0,9.80297469576975,18680,26.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Most Selective,Total,Total,Stayed in home region to study,Currently elsewhere,6130,5595,0,8.68146214099217,5595,7.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Left home region to study,Currently elsewhere,11980,10895,0,9.04992486224745,10895,10.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Other,Total,Total,Stayed in home region to study,Currently elsewhere,10155,9360,0,7.82942682686626,9360,8.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,1 YAG,Female + male,0,Total,Total,Total,Total,Total,2335,2335,0,0.0428449014567267,2335,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,1 YAG,Female + male,0,Total,Total,Total,Total,Total,1080,1075,0,0.37037037037037,1075,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,1 YAG,Female + male,0,Total,Total,Total,Total,Total,5565,5560,0,0.107797340998922,5560,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Total,Total,17540,17400,0,0.815232882959922,17400,100
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Total,Total,23995,23750,0,1.03346251614785,23750,100
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Total,Total,41165,40800,0,0.886654034883156,40800,100
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Total,Total,8485,8430,0,0.648355534598609,8430,100
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Total,Total,27430,27200,0,0.838528564657844,27200,100
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Total,Total,37275,36910,0,0.976499624423221,36910,100
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Total,Total,17730,17530,0,1.12796796570977,17530,100
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Total,Total,21875,21720,0,0.704032184328426,21720,100
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Total,Total,19450,19310,0,0.724857470401653,19310,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,3 YAG,Female + male,0,Total,Total,Total,Total,Total,2310,2295,0,0.476603119584055,2295,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,3 YAG,Female + male,0,Total,Total,Total,Total,Total,1070,1065,0,0.561272217025257,1065,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,3 YAG,Female + male,0,Total,Total,Total,Total,Total,5665,5640,0,0.459039548022599,5640,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Total,Total,17325,17060,0,1.54671899347839,17060,100
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Total,Total,24180,23755,0,1.75750558266479,23755,100
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Total,Total,40790,40175,0,1.50768551886446,40175,100
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Total,Total,8610,8470,0,1.62592183961442,8470,100
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Total,Total,27860,27395,0,1.67252889239825,27395,100
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Total,Total,37085,36410,0,1.822888577284,36410,100
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Total,Total,18045,17635,0,2.26643023384684,17635,100
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Total,Total,22295,21995,0,1.35450304987442,21995,100
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Total,Total,19780,19480,0,1.52181606754639,19480,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,5 YAG,Female + male,0,Total,Total,Total,Total,Total,2030,2005,0,1.13356333169049,2005,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,5 YAG,Female + male,0,Total,Total,Total,Total,Total,1010,995,0,1.77865612648221,995,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,5 YAG,Female + male,0,Total,Total,Total,Total,Total,5035,4980,0,1.07291873634015,4980,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Total,Total,16590,16245,0,2.07366327084212,16245,100
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Total,Total,23060,22535,0,2.28110499154343,22535,100
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Total,Total,37345,36645,0,1.87704171798854,36645,100
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Total,Total,8390,8240,0,1.83508102955195,8240,100
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Total,Total,26605,26075,0,1.98466396030672,26075,100
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Total,Total,34095,33285,0,2.37857813233224,33285,100
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Total,Total,16470,16070,0,2.43458199259304,16070,100
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Total,Total,20825,20490,0,1.61809189993758,20490,100
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Total,Total,18605,18240,0,1.95119329176521,18240,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,10 YAG,Female + male,0,Total,Total,Total,Total,Total,1695,1660,0,2.18289085545723,1660,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,10 YAG,Female + male,0,Total,Total,Total,Total,Total,990,950,0,3.94337714863498,950,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,10 YAG,Female + male,0,Total,Total,Total,Total,Total,3295,3220,0,2.39611768274189,3220,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Total,Total,14895,14460,0,2.90701577710641,14460,100
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Total,Total,20435,19720,0,3.48911181795938,19720,100
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Total,Total,32445,31500,0,2.92476962431041,31500,100
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Total,Total,7300,7080,0,3.04109589041096,7080,100
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Total,Total,24145,23500,0,2.66329785030858,23500,100
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Total,Total,31595,30445,0,3.64919610077225,30445,100
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Total,Total,15505,14945,0,3.61220408953106,14945,100
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Total,Total,18210,17720,0,2.68548519962656,17720,100
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Total,Total,16155,15700,0,2.84087392461472,15700,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,2335,2335,0,0.0428449014567267,2335,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,1080,1075,0,0.37037037037037,1075,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,5565,5560,0,0.107797340998922,5560,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,10570,10470,0,0.955444139627282,10470,60.2
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,6970,6930,0,0.602582496413199,6930,39.8
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,18860,18650,0,1.10298016756814,18650,78.5
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,5140,5100,0,0.778361548939482,5100,21.5
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,24295,24045,0,1.02486005926902,24045,58.9
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,16870,16755,0,0.687611144042679,16755,41.1
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,3510,3480,0,0.939903161492452,3480,41.3
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,4970,4950,0,0.442477876106195,4950,58.7
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,11125,11005,0,1.06067415730337,11005,40.5
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,16305,16190,0,0.686947988223749,16190,59.5
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,23625,23360,0,1.11741301955473,23360,63.3
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,13650,13550,0,0.732600732600733,13550,36.7
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,9825,9690,0,1.38394220006106,9690,55.3
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,7905,7840,0,0.809716599190283,7840,44.7
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,11825,11710,0,0.972680368772731,11710,53.9
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,10050,10010,0,0.388021092428614,10010,46.1
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,9225,9125,0,1.07305441144591,9125,47.3
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,10225,10185,0,0.410713761844692,10185,52.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,2310,2295,0,0.476603119584055,2295,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,1070,1065,0,0.561272217025257,1065,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,5665,5640,0,0.459039548022599,5640,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,10725,10510,0,1.97705865895738,10510,61.6
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,6605,6550,0,0.847970926711084,6550,38.4
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,18980,18615,0,1.94394689706037,18615,78.3
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,5200,5145,0,1.07692307692308,5145,21.7
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,23885,23485,0,1.68299422255715,23485,58.5
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,16905,16690,0,1.25998225377107,16690,41.5
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,3610,3525,0,2.32815964523282,3525,41.6
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,5000,4945,0,1.11944027986007,4945,58.4
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,11835,11570,0,2.23893207164583,11570,42.2
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,16025,15825,0,1.25421190565331,15825,57.8
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,23435,22960,0,2.01834862385321,22960,63.1
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,13650,13445,0,1.48728844604,13445,36.9
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,10315,10055,0,2.52084545278263,10055,57
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,7730,7585,0,1.92705638903259,7585,43
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,12605,12380,0,1.80058697548981,12380,56.3
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,9690,9615,0,0.774073691815461,9615,43.7
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,9775,9605,0,1.75959079283887,9605,49.3
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,10005,9875,0,1.28948420631747,9875,50.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,2030,2005,0,1.13356333169049,2005,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,1010,995,0,1.77865612648221,995,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,5035,4980,0,1.07291873634015,4980,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,10420,10165,0,2.45681381957774,10165,62.6
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,6170,6080,0,1.4264872750851,6080,37.4
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,17925,17470,0,2.52189923561904,17470,77.5
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,5135,5060,0,1.44080996884735,5060,22.5
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,21210,20770,0,2.06054319124859,20770,56.7
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,16140,15875,0,1.63589044491263,15875,43.3
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,3290,3195,0,2.7972027972028,3195,38.8
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,5105,5040,0,1.21497158534196,5040,61.2
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,11315,11025,0,2.55390597384235,11025,42.3
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,15290,15050,0,1.56331763474621,15050,57.7
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,21555,20975,0,2.6860270922249,20975,63
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,12540,12310,0,1.85007974481659,12310,37
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,9560,9295,0,2.78271785751648,9295,57.8
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,6910,6775,0,1.953125,6775,42.2
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,11415,11165,0,2.15543678261631,11165,54.5
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,9415,9325,0,0.966645421712343,9325,45.5
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,9210,9000,0,2.30159591792422,9000,49.3
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,9395,9240,0,1.60758011284999,9240,50.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,1695,1660,0,2.18289085545723,1660,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,990,950,0,3.94337714863498,950,100
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,3295,3220,0,2.39611768274189,3220,100
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,9150,8825,0,3.57377049180328,8825,61
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,5745,5640,0,1.84508268059182,5640,39
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,15710,15105,0,3.83219810299828,15105,76.6
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,4725,4615,0,2.34870926787981,4615,23.4
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,16915,16325,0,3.4764100744945,16325,51.8
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,15535,15170,0,2.32408420781562,15170,48.2
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,2880,2755,0,4.2043085476025,2755,38.9
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,4420,4320,0,2.28403437358661,4320,61.1
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,9450,9110,0,3.55630821337849,9110,38.8
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,14695,14390,0,2.08914596801633,14390,61.2
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,19820,19010,0,4.10171030724989,19010,62.4
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,11775,11435,0,2.88747346072187,11435,37.6
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,8870,8495,0,4.22821062126508,8495,56.8
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,6635,6450,0,2.78866445583358,6450,43.2
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,10220,9850,0,3.60148757095322,9850,55.6
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,7990,7870,0,1.51420347891378,7870,44.4
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Total,7810,7535,0,3.57142857142857,7535,48
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Total,8345,8165,0,2.15698022768125,8165,52
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,1535,1535,0,0,1535,65.9
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,650,650,0,0,650,60.5
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,3860,3860,0,0.0258933195235629,3860,69.4
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,7375,7305,0,0.935466377440347,7305,42
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,6485,6445,0,0.570635410240592,6445,37.1
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,14280,14145,0,0.952314263707023,14145,59.6
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4810,4780,0,0.623830318153462,4780,20.1
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,20620,20440,0,0.872896561757432,20440,50.1
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,16175,16080,0,0.581143740340031,16080,39.4
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,2395,2375,0,0.917813934084272,2375,28.2
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4755,4735,0,0.399495374264087,4735,56.2
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,8380,8295,0,1.02637546246569,8295,30.5
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,15750,15660,0,0.577741095803441,15660,57.6
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,17590,17425,0,0.949403069926094,17425,47.2
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,12555,12470,0,0.692951015531661,12470,33.8
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,6670,6580,0,1.364522417154,6580,37.5
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,7260,7200,0,0.771562413888123,7200,41.1
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,8615,8535,0,0.951717734447539,8535,39.3
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,9555,9530,0,0.272108843537415,9530,43.9
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,6630,6565,0,0.995625282848092,6565,34
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,9750,9710,0,0.389739592414437,9710,50.3
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,1315,1315,0,0,1315,57.3
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,575,570,0,0.522648083623693,570,53.8
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,3325,3320,0,0.18034265103697,3320,58.9
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,6380,6260,0,1.86549615927261,6260,36.7
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,5745,5710,0,0.661214546720028,5710,33.5
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,12610,12380,0,1.80044416243655,12380,52.1
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4540,4505,0,0.792602377807133,4505,19
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,20070,19805,0,1.33525982761198,19805,49.3
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,15655,15510,0,0.932609389971255,15510,38.6
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,2115,2070,0,2.12564950401512,2070,24.5
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4560,4515,0,1.00821917808219,4515,53.3
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,7860,7705,0,1.99720137387101,7705,28.1
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,14980,14820,0,1.04152757377487,14820,54.1
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,14900,14610,0,1.93946714985571,14610,40.1
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,11400,11255,0,1.25449600842179,11255,30.9
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,5860,5715,0,2.47524752475248,5715,32.4
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,6410,6300,0,1.74672489082969,6300,35.7
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,8035,7915,0,1.50572424091588,7915,36
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,8845,8785,0,0.678272665611576,8785,39.9
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,6110,6010,0,1.58782124733999,6010,30.9
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,9100,9000,0,1.0989010989011,9000,46.2
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,1095,1095,0,0.0914076782449726,1095,54.5
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,470,470,0,0.423728813559322,470,47.2
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,2655,2650,0,0.188465887674331,2650,53.2
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,5655,5545,0,1.92749778956675,5545,34.1
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,5050,4995,0,1.12871287128713,4995,30.7
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,10590,10380,0,1.99206948640483,10380,46.1
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4275,4235,0,0.958615852232873,4235,18.8
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,17275,17030,0,1.41252749797383,17030,46.5
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,14385,14240,0,1.0287779785903,14240,38.9
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,1805,1765,0,2.21729490022173,1765,21.4
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4465,4425,0,0.873264666368115,4425,53.7
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,6955,6825,0,1.89736955584304,6825,26.2
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,13845,13685,0,1.15573533660792,13685,52.5
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,12360,12080,0,2.26518890057439,12080,36.3
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,9800,9670,0,1.33687110929687,9670,29.1
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,4925,4805,0,2.41575314656922,4805,29.9
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,5460,5385,0,1.37337483977294,5385,33.5
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,6640,6525,0,1.70231997589635,6525,31.8
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,8335,8285,0,0.635720283075447,8285,40.4
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,5370,5265,0,1.91877794336811,5265,28.9
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,8090,8005,0,1.0876282288963,8005,43.9
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,965,965,0,0.10351966873706,965,58.1
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,425,425,0,0,425,44.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,1565,1565,0,0.0638977635782748,1565,48.6
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,4320,4250,0,1.64275798241555,4250,29.4
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4265,4245,0,0.468933177022274,4245,29.4
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,8315,8215,0,1.23842731754238,8215,41.6
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,3650,3620,0,0.794302930703917,3620,18.4
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,12180,12050,0,1.08374384236453,12050,38.3
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,12550,12445,0,0.812878546381894,12445,39.5
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,1485,1465,0,1.61398789509079,1465,20.7
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,3675,3655,0,0.571273122959739,3655,51.6
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,5250,5180,0,1.31478658536585,5180,22
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,12530,12430,0,0.813981326310749,12430,52.9
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,10045,9920,0,1.24452409398646,9920,32.6
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,8380,8305,0,0.859291084854995,8305,27.3
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,4230,4170,0,1.39446939257859,4170,27.9
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,4960,4915,0,0.907075186454344,4915,32.9
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,5185,5120,0,1.27241179872759,5120,28.9
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,6605,6570,0,0.499621498864497,6570,37.1
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in home region,4165,4105,0,1.41656662665066,4105,26.2
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently in home/study region,6795,6740,0,0.76549389076991,6740,42.9
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,595,595,0,0,595,25.5
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,255,255,0,0,255,23.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1125,1125,0,0.0887311446317657,1125,20.2
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2085,2065,0,0.768122899663946,2065,11.9
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2870,2835,0,1.14982578397213,2835,11.9
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2445,2410,0,1.43149284253579,2410,5.9
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,800,795,0,0.625782227784731,795,9.4
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1820,1800,0,0.935093509350935,1800,6.6
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,3845,3795,0,1.24869927159209,3795,10.3
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2005,1980,0,1.29611166500499,1980,11.3
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2085,2065,0,0.863723608445297,2065,9.5
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1755,1735,0,1.19726339794755,1735,9
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,570,570,0,0,570,24.8
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,200,200,0,0.5,200,18.8
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1230,1225,0,0.244299674267101,1225,21.7
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2135,2095,0,1.78152836380684,2095,12.3
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2960,2920,0,1.38466734211415,2920,12.3
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2025,1990,0,1.72839506172839,1990,5
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,795,790,0,1.12923462986198,790,9.3
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1970,1935,0,1.6751269035533,1935,7.1
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,3890,3835,0,1.41388174807198,3835,10.5
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2190,2140,0,2.23744292237443,2140,12.1
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2270,2230,0,1.80696342000881,2230,10.1
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1900,1875,0,1.31440588853838,1875,9.6
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,450,450,0,0,450,22.4
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,180,180,0,0.552486187845304,180,18.1
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1070,1070,0,0.186741363211951,1070,21.5
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2000,1970,0,1.35135135135135,1970,12.1
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2775,2740,0,1.22522522522523,2740,12.2
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1825,1800,0,1.31651124520022,1800,4.9
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,735,720,0,1.90735694822888,720,8.7
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1825,1795,0,1.58904109589041,1795,6.9
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,3525,3480,0,1.24787294384572,3480,10.5
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1920,1900,0,1.09318063508589,1900,11.8
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2060,2035,0,1.06847984458475,2035,9.9
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1720,1695,0,1.68408826945412,1695,9.3
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,265,265,0,0,265,16
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,170,170,0,0,170,17.9
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,600,600,0,0,600,18.7
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1605,1590,0,0.935745477230193,1590,11
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,2240,2220,0,0.759606791778374,2220,11.3
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1715,1695,0,1.1648223645894,1695,5.4
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,515,510,0,0.972762645914397,510,7.2
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1360,1355,0,0.514705882352941,1355,5.8
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,3065,3040,0,0.718250081619327,3040,10
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1480,1460,0,1.3531799729364,1460,9.8
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1610,1595,0,0.993171942892613,1595,9
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently in study region,1240,1225,0,1.13085621970921,1225,7.8
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,200,200,0,0.495049504950495,200,8.6
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,175,170,0,2.28571428571429,170,15.8
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,575,575,0,0.693240901213172,575,10.3
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1110,1095,0,1.43884892086331,1095,6.3
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,485,480,0,1.02880658436214,480,2.8
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1705,1670,0,2.28471001757469,1670,7
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,330,320,0,3.03030303030303,320,1.3
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1230,1195,0,2.76422764227642,1195,2.9
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,695,675,0,3.16546762589928,675,1.7
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,315,310,0,1.9047619047619,310,3.7
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,215,215,0,1.38888888888889,215,2.6
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,930,915,0,1.61637931034483,915,3.4
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,555,530,0,3.79746835443038,530,1.9
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2190,2145,0,2.23540145985401,2145,5.8
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1095,1080,0,1.18721461187215,1080,2.9
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1150,1135,0,1.64930555555556,1135,6.5
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,645,640,0,1.23839009287926,640,3.6
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1125,1110,0,1.33570792520036,1110,5.1
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,495,485,0,2.62096774193548,485,2.2
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,845,830,0,1.42348754448399,830,4.3
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,1 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,475,470,0,0.840336134453782,470,2.4
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,420,410,0,2.61904761904762,410,17.9
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,295,295,0,0.677966101694915,295,27.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1110,1090,0,1.53291253381425,1090,19.3
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2210,2155,0,2.48756218905473,2155,12.6
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,855,840,0,2.10035005834306,840,4.9
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,3415,3310,0,2.9592733665397,3310,13.9
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,660,640,0,3.03951367781155,640,2.7
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1790,1690,0,5.53072625698324,1690,4.2
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1250,1185,0,5.36,1185,2.9
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,695,665,0,4.32276657060519,665,7.9
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,440,430,0,2.27272727272727,430,5.1
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2005,1930,0,3.74064837905237,1930,7
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1050,1005,0,4.29389312977099,1005,3.7
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,4645,4515,0,2.77777777777778,4515,12.4
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,2250,2190,0,2.66666666666667,2190,6
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2265,2200,0,2.9126213592233,2200,12.5
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1320,1285,0,2.8030303030303,1285,7.3
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2300,2235,0,2.8236316246742,2235,10.2
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,845,830,0,1.77935943060498,830,3.8
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1765,1715,0,2.83446712018141,1715,8.8
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,3 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,905,875,0,3.20796460176991,875,4.5
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,485,465,0,4.51745379876797,465,23.1
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,360,345,0,4.17827298050139,345,34.7
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1310,1260,0,3.59052711993888,1260,25.3
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2765,2645,0,4.33682688832671,2645,16.3
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1120,1090,0,2.77033065236819,1090,6.7
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,4555,4350,0,4.54345917471466,4350,19.3
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,860,825,0,3.84167636786962,825,3.7
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2110,1940,0,8.00568450971104,1940,5.3
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1750,1635,0,6.62100456621005,1635,4.5
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,750,715,0,5.05992010652463,715,8.7
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,635,615,0,3.61067503924647,615,7.5
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2535,2405,0,5.05130228887135,2405,9.2
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1445,1365,0,5.47091412742382,1365,5.2
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,5670,5415,0,4.49814782148527,5415,16.3
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,2740,2640,0,3.68478657424298,2640,7.9
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2710,2585,0,4.64601769911504,2585,16.1
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1450,1390,0,4.13507925568573,1390,8.7
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2715,2605,0,4.08689248895434,2605,12.7
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1075,1040,0,3.52831940575673,1040,5.1
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2120,2040,0,3.77180575200377,2040,11.2
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,5 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1300,1240,0,4.83870967741935,1240,6.8
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Northern Ireland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,465,430,0,7.74193548387097,430,25.9
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Scotland,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,395,355,0,9.9236641221374,355,37.4
+202122,Tax year,National,K02000001,United Kingdom,z,All regions in Wales,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,1130,1050,0,6.90265486725664,1050,32.7
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,3225,2985,0,7.47286821705426,2985,20.6
+202122,Tax year,National,K02000001,United Kingdom,E12000004,East Midlands,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1480,1395,0,5.81081081081081,1395,9.6
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,5155,4670,0,9.35195964299573,4670,23.7
+202122,Tax year,National,K02000001,United Kingdom,E12000006,East of England,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1075,995,0,7.62790697674419,995,5
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,3015,2580,0,14.4514418296321,2580,8.2
+202122,Tax year,National,K02000001,United Kingdom,E12000007,London,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,2985,2725,0,8.67671691792295,2725,8.7
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,875,785,0,10.4903078677309,785,11.1
+202122,Tax year,National,K02000001,United Kingdom,E12000001,North East,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,745,665,0,10.7238605898123,665,9.4
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2840,2580,0,9.15492957746479,2580,11
+202122,Tax year,National,K02000001,United Kingdom,E12000002,North West,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,2165,1960,0,9.4731977818854,1960,8.3
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,6715,6050,0,9.91957104557641,6050,19.9
+202122,Tax year,National,K02000001,United Kingdom,E12000008,South East,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,3395,3130,0,7.89163722025913,3130,10.3
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,3160,2865,0,9.36708860759494,2865,19.2
+202122,Tax year,National,K02000001,United Kingdom,E12000009,South West,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1675,1535,0,8.36820083682008,1535,10.3
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,3420,3135,0,8.3625730994152,3135,17.7
+202122,Tax year,National,K02000001,United Kingdom,E12000005,West Midlands,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1385,1300,0,6.34920634920635,1300,7.3
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Left home region to study,Currently elsewhere,2410,2205,0,8.55126608551266,2205,14
+202122,Tax year,National,K02000001,United Kingdom,E12000003,Yorkshire and The Humber,10 YAG,Female + male,0,Total,Total,Total,Stayed in home region to study,Currently elsewhere,1550,1425,0,8.24742268041237,1425,9.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Total,Total,26720,26590,0,0.479059845054081,26590,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Total,Total,172970,171430,0,0.890322140519428,171430,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Total,Total,24240,23995,0,1.00251660547052,23995,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Total,Total,26480,26225,0,0.959268840757596,26225,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Total,Total,173885,170910,0,1.70918543396747,170910,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Total,Total,24655,24235,0,1.69938351719663,24235,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Total,Total,23225,22925,0,1.29601722282024,22925,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Total,Total,161535,158180,0,2.07511777779153,158180,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Total,Total,25305,24695,0,2.39883022447044,24695,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Total,10985,10935,0,0.464311726147123,10935,41.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Total,15735,15660,0,0.489354941213854,15660,58.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Total,101270,100165,0,1.09211916540767,100165,58.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Total,71700,71265,0,0.605299016319364,71265,41.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Total,19590,19410,0,0.903614457831325,19410,80.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Total,4650,4585,0,1.41904966673834,4585,19.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Total,10720,10595,0,1.1660447761194,10595,40.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Total,15760,15630,0,0.818605831773329,15630,59.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Total,103330,101245,0,2.01591049860638,101245,59.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Total,70555,69665,0,1.25999206304212,69665,40.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Total,20160,19860,0,1.48320849248475,19860,81.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Total,4495,4375,0,2.66844563042028,4375,18.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Total,8855,8710,0,1.6709946934628,8710,38
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Total,14370,14215,0,1.06486636971047,14215,62
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Total,94580,92280,0,2.43079785996743,92280,58.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Total,66955,65900,0,1.57269808080054,65900,41.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Total,20535,20055,0,2.32297652673614,20055,81.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Total,4770,4640,0,2.72536687631027,4640,18.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently in home region,8365,8325,0,0.442372070779531,8325,31.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Currently in home/study region,15085,15020,0,0.417688788702513,15020,56.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently in home region,76115,75350,0,1.0024305327465,75350,44
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Currently in home/study region,67825,67450,0,0.552900812543034,67450,39.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently in home region,14125,14025,0,0.707914483930341,14025,58.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Currently in home/study region,4185,4145,0,0.955566172957477,4145,17.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently in home region,7805,7730,0,0.935417734495131,7730,29.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Currently in home/study region,14660,14555,0,0.723080596200416,14555,55.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently in home region,68800,67535,0,1.83575581395349,67535,39.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Currently in home/study region,62990,62320,0,1.06362712725425,62320,36.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently in home region,12555,12410,0,1.123237473114,12410,51.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Currently in home/study region,3590,3530,0,1.6991643454039,3530,14.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently in home region,6275,6190,0,1.29124820659971,6190,27
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Currently in home/study region,13000,12905,0,0.730881674103708,12905,56.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently in home region,58105,56985,0,1.9292991876635,56985,36
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Currently in home/study region,57165,56515,0,1.13701960921511,56515,35.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently in home region,11415,11260,0,1.37514233161076,11260,45.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Currently in home/study region,3545,3500,0,1.32543711223914,3500,14.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently in study region,1885,1875,0,0.371747211895911,1875,7.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently in study region,16480,16290,0,1.14698385726423,16290,9.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently in study region,3320,3295,0,0.722673893405601,3295,13.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently in study region,1700,1685,0,0.999412110523222,1685,6.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently in study region,17080,16800,0,1.62196978568919,16800,9.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently in study region,3360,3320,0,1.07206670637284,3320,13.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently in study region,1375,1360,0,1.16194625998548,1360,5.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently in study region,15405,15200,0,1.35012332857328,15200,9.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently in study region,3300,3275,0,0.696969696969697,3275,13.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently elsewhere,735,730,0,0.949796472184532,730,2.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Currently elsewhere,650,640,0,2.14723926380368,640,2.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently elsewhere,8680,8525,0,1.77460244295921,8525,5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Currently elsewhere,3875,3815,0,1.52218782249742,3815,2.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently elsewhere,2140,2090,0,2.47547874824848,2090,8.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Currently elsewhere,465,440,0,5.59139784946237,440,1.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently elsewhere,1215,1180,0,2.88065843621399,1180,4.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Currently elsewhere,1100,1075,0,2.09281164695177,1075,4.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently elsewhere,17450,16905,0,3.11174785100287,16905,9.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Currently elsewhere,7565,7345,0,2.89529349550502,7345,4.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently elsewhere,4250,4125,0,2.87193973634652,4125,17
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Currently elsewhere,905,850,0,6.50496141124587,850,3.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Left home region to study,Currently elsewhere,1205,1155,0,4.22535211267606,1155,5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,FSM,Total,Stayed in home region to study,Currently elsewhere,1370,1310,0,4.23357664233577,1310,5.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Left home region to study,Currently elsewhere,21070,20100,0,4.60413897854566,20100,12.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,non-FSM,Total,Stayed in home region to study,Currently elsewhere,9790,9385,0,4.11728647323253,9385,5.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Left home region to study,Currently elsewhere,5815,5520,0,5.10572460030944,5520,22.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Not known,Total,Stayed in home region to study,Currently elsewhere,1225,1140,0,6.78104575163399,1140,4.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Total,Total,23260,23100,0,0.687831825118758,23100,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Total,Total,32885,32665,0,0.662956542894505,32665,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Total,Total,41085,40760,0,0.79343831382189,40760,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Total,Total,50940,50525,0,0.812743184932448,50525,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Total,Total,73185,72395,0,1.08082257293161,72395,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Total,Total,2575,2570,0,0.0777000777000777,2570,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Total,Total,23100,22830,0,1.17738723920007,22830,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Total,Total,33205,32710,0,1.48781736590067,32710,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Total,Total,41305,40700,0,1.46231040201431,40700,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Total,Total,51450,50620,0,1.61324807090517,50620,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Total,Total,73495,72065,0,1.94565764589031,72065,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Total,Total,2465,2450,0,0.609013398294762,2450,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Total,Total,20790,20465,0,1.57272027702963,20465,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Total,Total,30550,29985,0,1.84621427869979,29985,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Total,Total,38740,38050,0,1.78880256059472,38050,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Total,Total,48620,47650,0,1.99917729329494,47650,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Total,Total,69210,67530,0,2.4274299585314,67530,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Total,Total,2150,2125,0,1.11576011157601,2125,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Total,Total,16475,16090,0,2.36086666262062,16090,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Total,Total,26135,25425,0,2.71304480924502,25425,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Total,Total,33525,32590,0,2.79177975959674,32590,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Total,Total,43805,42510,0,2.95856637370163,42510,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Total,Total,64860,62460,0,3.69867871293998,62460,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Total,Total,1865,1815,0,2.5228126677402,1815,100
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Left home region to study,Total,10860,10770,0,0.828729281767956,10770,46.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Total,12400,12330,0,0.564447849050518,12330,53.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Left home region to study,Total,16730,16600,0,0.800860626344729,16600,50.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Total,16150,16065,0,0.520091635192867,16065,49.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Left home region to study,Total,22175,21965,0,0.929057863166915,21965,53.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Total,18915,18795,0,0.634450671460294,18795,46.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Left home region to study,Total,29670,29380,0,0.987496208418995,29380,58.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Total,21270,21145,0,0.568940548063721,21145,41.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Left home region to study,Total,49930,49320,0,1.22171039455237,49320,68.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Total,23255,23075,0,0.778327241453451,23075,31.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Total,2475,2475,0,0.040371417036738,2475,96.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Total,95,95,0,1.03092783505155,95,3.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Left home region to study,Total,11010,10860,0,1.35331516802906,10860,47.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Total,12090,11970,0,1.01720145550777,11970,52.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Left home region to study,Total,17255,16945,0,1.81955148635336,16945,51.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Total,15945,15765,0,1.12880973284836,15765,48.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Left home region to study,Total,22845,22440,0,1.75983890031957,22440,55.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Total,18460,18260,0,1.0941689461853,18260,44.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Left home region to study,Total,30295,29710,0,1.934248745709,29710,58.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Total,21155,20910,0,1.15350068548196,20910,41.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Left home region to study,Total,50400,49355,0,2.06750133931229,49355,68.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Total,23100,22710,0,1.67979911680665,22710,31.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Total,2400,2390,0,0.582847626977519,2390,97.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Total,60,60,0,1.63934426229508,60,2.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Left home region to study,Total,9835,9640,0,1.97294823553341,9640,47.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Total,10960,10825,0,1.21361438087417,10825,52.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Left home region to study,Total,15530,15180,0,2.24711866589402,15180,50.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Total,15020,14805,0,1.4316153948595,14805,49.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Left home region to study,Total,21315,20855,0,2.16728432706291,20855,54.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Total,17425,17195,0,1.32575757575758,17195,45.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Left home region to study,Total,28275,27595,0,2.40495137046861,27595,57.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Total,20345,20055,0,1.43524207421971,20055,42.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Left home region to study,Total,46900,45685,0,2.59050786746834,45685,67.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Total,22305,21840,0,2.08454745147263,21840,32.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Total,2110,2085,0,1.13690194220748,2085,98.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Total,40,40,0,0,40,1.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Left home region to study,Total,7290,7060,0,3.15587266739846,7060,43.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Total,9190,9030,0,1.73032974208293,9030,56.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Left home region to study,Total,12825,12410,0,3.243917654398,12410,48.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Total,13310,13015,0,2.20151776993012,13015,51.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Left home region to study,Total,17910,17295,0,3.43421934331025,17295,53.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Total,15620,15300,0,2.05518919264998,15300,46.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Left home region to study,Total,24585,23705,0,3.58726156098751,23705,55.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Total,19220,18805,0,2.15423040899157,18805,44.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Left home region to study,Total,42385,40610,0,4.19242202614071,40610,65
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Total,22475,21855,0,2.76751946607341,21855,35
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Total,1805,1765,0,2.4349750968456,1765,97
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Total,55,55,0,5.35714285714286,55,3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in home region,7865,7800,0,0.839267548321465,7800,33.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently in home/study region,11800,11740,0,0.499936448756514,11740,50.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in home region,12155,12075,0,0.682790391576176,12075,37
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently in home/study region,15345,15275,0,0.456115201668078,15275,46.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in home region,16425,16285,0,0.834195944711685,16285,40
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently in home/study region,17915,17805,0,0.619627107290387,17805,43.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in home region,22300,22100,0,0.901385712363783,22100,43.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently in home/study region,20135,20040,0,0.461914411729646,20040,39.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in home region,38240,37830,0,1.07996443700643,37830,52.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently in home/study region,21810,21665,0,0.66030814380044,21665,29.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in home region,1620,1620,0,0,1620,62.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently in home/study region,90,90,0,1.12359550561798,90,3.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in home region,7155,7075,0,1.06249126240738,7075,31
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently in home/study region,11035,10945,0,0.815438977983147,10945,48
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in home region,11240,11060,0,1.59252669039146,11060,33.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently in home/study region,14420,14290,0,0.908523475969207,14290,43.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in home region,15060,14810,0,1.66655600557732,14810,36.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently in home/study region,16660,16490,0,0.996548101455801,16490,40.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in home region,20410,20060,0,1.69541356330851,20060,39.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently in home/study region,18960,18790,0,0.907125151627024,18790,37.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in home region,33935,33310,0,1.83875530410184,33310,46.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently in home/study region,20120,19840,0,1.37680799244495,19840,27.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in home region,1360,1360,0,0.0735835172921266,1360,55.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently in home/study region,50,45,0,2.08333333333333,45,1.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in home region,6050,5965,0,1.40449438202247,5965,29.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently in home/study region,9685,9605,0,0.836172189532363,9605,46.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in home region,9445,9285,0,1.67284277395447,9285,31
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently in home/study region,13135,13015,0,0.936358099878197,13015,43.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in home region,13165,12950,0,1.66324903167008,12950,34
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently in home/study region,15070,14930,0,0.92899800928998,14930,39.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in home region,17275,16945,0,1.92174114378328,16945,35.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently in home/study region,17480,17295,0,1.04691075514874,17295,36.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in home region,28725,28160,0,1.96337812434728,28160,41.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently in home/study region,18305,18040,0,1.44753373026711,18040,26.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in home region,1130,1125,0,0.0886524822695035,1125,52.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently in home/study region,30,30,0,0,30,1.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in home region,4135,4090,0,1.11218568665377,4090,25.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently in home/study region,7645,7605,0,0.536368393511251,7605,47.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in home region,7155,7075,0,1.07632093933464,7075,27.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently in home/study region,10865,10785,0,0.717901518637828,10785,42.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in home region,9750,9630,0,1.23089547645912,9630,29.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently in home/study region,12565,12470,0,0.748228926211892,12470,38.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in home region,13375,13210,0,1.22625990728279,13210,31.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently in home/study region,15355,15235,0,0.762016412661196,15235,35.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in home region,22725,22420,0,1.3246490340184,22420,35.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently in home/study region,16950,16805,0,0.861306117633178,16805,26.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in home region,1000,1000,0,0.199600798403194,1000,55.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently in home/study region,30,30,0,0,30,1.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in study region,2145,2135,0,0.512342803912436,2135,9.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in study region,3195,3165,0,1.06349702846419,3165,9.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in study region,3850,3815,0,0.961038961038961,3815,9.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in study region,4795,4750,0,0.938281901584654,4750,9.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in study region,7065,6970,0,1.31672094011043,6970,9.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in study region,630,630,0,0,630,24.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in study region,2255,2220,0,1.50709219858156,2220,9.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in study region,3280,3225,0,1.61683953630262,3225,9.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in study region,4140,4085,0,1.3291445142581,4085,10
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in study region,4870,4800,0,1.47813590638473,4800,9.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in study region,7000,6885,0,1.65714285714286,6885,9.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in study region,595,595,0,0,595,24.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in study region,1935,1915,0,1.08527131782946,1915,9.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in study region,2905,2860,0,1.51515151515152,2860,9.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in study region,3645,3610,0,1.06937208664656,3610,9.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in study region,4690,4620,0,1.4498933901919,4620,9.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in study region,6440,6365,0,1.16441546343735,6365,9.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in study region,465,465,0,0,465,21.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently in study region,1260,1250,0,0.555996822875298,1250,7.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently in study region,2100,2085,0,0.666349357448834,2085,8.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently in study region,2820,2795,0,0.886210563629919,2795,8.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently in study region,3750,3720,0,0.826446280991736,3720,8.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently in study region,5635,5575,0,1.04684173172463,5575,8.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently in study region,290,290,0,0,290,16
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently elsewhere,850,835,0,1.53121319199058,835,3.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently elsewhere,600,590,0,1.83333333333333,590,2.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently elsewhere,1380,1360,0,1.23277737490935,1360,4.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently elsewhere,805,790,0,1.74129353233831,790,2.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently elsewhere,1900,1870,0,1.68421052631579,1870,4.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently elsewhere,1000,990,0,0.9,990,2.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently elsewhere,2575,2530,0,1.82453416149068,2530,5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently elsewhere,1135,1105,0,2.46913580246914,1105,2.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently elsewhere,4625,4520,0,2.24864864864865,4520,6.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently elsewhere,1445,1410,0,2.55701451278507,1410,1.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently elsewhere,225,225,0,0.440528634361234,225,8.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,1 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently elsewhere,10,10,0,0,10,0.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently elsewhere,1600,1560,0,2.43597751405372,1560,6.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently elsewhere,1055,1020,0,3.12796208530806,1020,4.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently elsewhere,2740,2655,0,2.99379335523914,2655,8.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently elsewhere,1525,1480,0,3.20890635232482,1480,4.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently elsewhere,3645,3550,0,2.6344676180022,3550,8.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently elsewhere,1805,1770,0,1.99556541019956,1770,4.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently elsewhere,5015,4850,0,3.34861470998605,4850,9.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently elsewhere,2190,2120,0,3.28467153284672,2120,4.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently elsewhere,9465,9160,0,3.19137694177322,9160,12.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently elsewhere,2980,2870,0,3.72608257804632,2870,4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently elsewhere,450,435,0,2.89532293986637,435,17.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,3 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently elsewhere,15,15,0,0,15,0.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently elsewhere,1845,1760,0,4.7670639219935,1760,8.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently elsewhere,1270,1220,0,4.08805031446541,1220,6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently elsewhere,3180,3035,0,4.61973601508485,3035,10.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently elsewhere,1880,1790,0,4.8884165781084,1790,6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently elsewhere,4505,4300,0,4.53031312458361,4300,11.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently elsewhere,2355,2265,0,3.86576040781648,2265,6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently elsewhere,6310,6030,0,4.43810429545094,6030,12.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently elsewhere,2865,2755,0,3.80453752181501,2755,5.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently elsewhere,11735,11160,0,4.90839369407755,11160,16.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently elsewhere,4000,3800,0,5,3800,5.6
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently elsewhere,515,495,0,4.44874274661509,495,23.3
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,5 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently elsewhere,10,10,0,0,10,0.5
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Left home region to study,Currently elsewhere,1895,1715,0,9.35023771790808,1715,10.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,1,Stayed in home region to study,Currently elsewhere,1545,1425,0,7.63754045307443,1425,8.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Left home region to study,Currently elsewhere,3570,3245,0,9.10619221070328,3245,12.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,2,Stayed in home region to study,Currently elsewhere,2445,2230,0,8.79705400981997,2230,8.8
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Left home region to study,Currently elsewhere,5340,4870,0,8.80479580367179,4870,14.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,3,Stayed in home region to study,Currently elsewhere,3055,2830,0,7.42801047120419,2830,8.7
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Left home region to study,Currently elsewhere,7460,6775,0,9.20664701152506,6775,15.9
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,4,Stayed in home region to study,Currently elsewhere,3865,3565,0,7.68633540372671,3565,8.4
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Left home region to study,Currently elsewhere,14025,12610,0,10.1019462465246,12610,20.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,5,Stayed in home region to study,Currently elsewhere,5525,5050,0,8.61694424330195,5050,8.1
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Left home region to study,Currently elsewhere,515,475,0,8.15533980582524,475,26.2
+202122,Tax year,National,K02000001,United Kingdom,Total,Total,10 YAG,Female + male,0,Total,Total,Not known,Stayed in home region to study,Currently elsewhere,25,20,0,12.5,20,1.1

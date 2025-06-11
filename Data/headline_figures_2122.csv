@@ -1,0 +1,2 @@
+time_period,time_identifier,geographic_level,country_code,country_name,median_nominal_fd,median_nominal_l7t,median_nominal_l8,sust_emp_fs_both_fd,sust_emp_fs_both_l7t,sust_emp_fs_both_l8,median_rte_fd,gender_gap,fsm_gap,eu_median_fd,non_eu_median_fd
+202122,Tax year,National,K03000001,United Kingdom,29900,36100,41200,87.8,87.3,84.8,25800,12.2,8.5,35800,38000
