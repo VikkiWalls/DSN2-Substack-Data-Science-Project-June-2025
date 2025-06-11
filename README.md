@@ -11,4 +11,4 @@ This repo wil be running in tandem to the [Data Science Note 2 Substack](https:/
 
 ## Data
 
-The data for this project comes from the [British Govenment Website]('https://explore-education-statistics.service.gov.uk/find-statistics/leo-graduate-and-postgraduate-outcomes/data-guidance') and covers infromation regarding graduate and postgraduate outcomes in England for the 2021-22 tax year.
+The data for this project comes from the [British Govenment Website](https://explore-education-statistics.service.gov.uk/find-statistics/leo-graduate-and-postgraduate-outcomes/data-guidance) and covers infromation regarding graduate and postgraduate outcomes in England for the 2021-22 tax year.
