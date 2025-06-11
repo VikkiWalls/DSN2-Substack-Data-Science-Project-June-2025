@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repo wil be running in tandem to the [Data Science Note 2 Substack]('https://datasciencenot2.substack.com/?sort=top) series covering an in depth dive of a data science project.
+This repo wil be running in tandem to the [Data Science Note 2 Substack](https://datasciencenot2.substack.com/?sort=top) series covering an in depth dive of a data science project.
 
 ## Data
 
